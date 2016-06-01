@@ -1,6 +1,6 @@
 name: Inverugie
 favicon: null
-layout_spectrum: 0.6404637144878507
+layout_spectrum: 0.51433
 typography_spectrum: 0.6647743880748749
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.8784171100705862
-  lightness: 0.7837518351152539
-  saturation: 0.02306534256786108
-  rhythmicContrast: 0.9158534575253725
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
